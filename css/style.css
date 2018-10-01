@@ -472,7 +472,7 @@ header{
 	color:#474d5d;
 }
 .technical h2{
-	color:#3f3f7f;
+	color:#5F3F7F;
 }
 
 .technical .skillsArea{
@@ -556,7 +556,7 @@ header{
 }
 
 .exprience h2{
-	color:#3f3f7f;
+	color:#5F3F7F;
 }
 .exprience p{
 	color:#84868d;
@@ -581,7 +581,7 @@ header{
 .workYear{
 	font-size:17px;
 	color:#fff;
-	background:#3f3f7f;
+	background:#5F3F7F;
 	text-align:center;
 	width:120px;
 	height:120px;
@@ -633,7 +633,7 @@ header{
 }
 
 .education h2{
-	color:#3f3f7f;
+	color:#5F3F7F;
 }
 .education p{
 	color:#84868d;
@@ -797,7 +797,7 @@ span.hoverBox .zoom{
 	visibility:hidden;
 	width:42px;
 	height:42px;
-	background:#3f3f7f;
+	background:#5F3F7F;
 	color:#fff;
 	position: relative;
 	left:-150%;
@@ -926,7 +926,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 .contact h2{
-	color:#3f3f7f;
+	color:#5F3F7F;
 }
 .contact p{
 	color:#84868d;
@@ -1018,7 +1018,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 .conForm .submitBnt{
-	background:#3f3f7f;
+	background:#5F3F7F;
 	font-family: 'Open Sans', sans-serif;
 	color:#fff;
 	font-size:16px;
@@ -1042,7 +1042,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	font-weight: 500;
 }
 .error_message{
-	color: #3f3f7f;
+	color: #5F3F7F;
 	padding-bottom: 15px;
 	font-weight: 500;
 }
