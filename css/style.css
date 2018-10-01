@@ -1160,7 +1160,8 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	}
 
 	.navbar.navbar-inverse.navbar-static-top a {
-		padding-left: 17px;
+		padding-left: 10px;
+		padding-right: 10px
 	}
 
 }
