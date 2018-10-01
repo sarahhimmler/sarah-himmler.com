@@ -111,44 +111,43 @@
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="100"> <span class="percent"></span> </span>
                       <h4>HTML5</h4>
-                      <p>The language of the world wide web.</p>
+                      <p>The Language of Websites</p>
                     </div>
                   </div>
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="100"> <span class="percent"></span> </span>
                       <h4>SCSS / CSS</h4>
-                      <p>The language of the world wide web.</p>
-                    </div>
-                  </div>
-                  <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea clearfix">
-                    <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="80"> <span class="percent"></span> </span>
-                      <h4>Javascript</h4>
-                      <p>Used for web page interactivity.</p>
+                      <p>Giving Websites Style</p>
                     </div>
                   </div>
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="85"> <span class="percent"></span> </span>
                       <h4>PHP</h4>
-                      <p>Making websites dynamic since 2013.</p>
+                      <p>Server Side Scripting</p>
                     </div>
                   </div>
-
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="75"> <span class="percent"></span> </span>
                       <h4>MySQL</h4>
-                      <p>A tried and true database software.</p>
+                      <p>Database Management</p>
+                    </div>
+                  </div>
+                  <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea clearfix">
+                    <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="80"> <span class="percent"></span> </span>
+                      <h4>Javascript</h4>
+                      <p>Interactive Website Effects</p>
                     </div>
                   </div>
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="85"> <span class="percent"></span> </span>
                       <h4>jQuery</h4>
-                      <p>An awesome library written in JavaScript.</p>
+                      <p>Making JavaScript Easier</p>
                     </div>
                   </div>
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="95"> <span class="percent"></span> </span>
                       <h4>Twitter Bootstrap</h4>
-                      <p>Used to make websites responsive.</p>
+                      <p>Creating Responsive Frameworks</p>
                     </div>
                   </div>
                 </div>
