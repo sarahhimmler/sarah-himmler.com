@@ -52,7 +52,7 @@
 	Slid Show image part
 -----------------------------------------*/ 
 .cb-slideshow li:nth-child(1) span {
-	 background-image: url(../photos/photo_1.jpeg);
+	 background-image: url(../photos/photo_1.jpg);
 	 
 }
 
