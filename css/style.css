@@ -1121,8 +1121,8 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 @media screen and (max-width: 991px) {
 	.navbar.navbar-inverse.navbar-static-top a{
-		padding-left:18px;
-		padding-right:18px;
+		padding-left:12px;
+		padding-right:12px;
 	}
 
 	.bannerText{
