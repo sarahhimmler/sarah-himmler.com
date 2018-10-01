@@ -251,10 +251,10 @@
                           </div>
                         </div>
                       </div>
-
                     </div>
-                  </section>
-                  <!--community end-->
+                  </div>
+                </section>
+                <!--community end-->
 
 
     <!--portfolio start-->
