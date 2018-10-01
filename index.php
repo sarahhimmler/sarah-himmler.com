@@ -92,8 +92,8 @@
                   <h3>Sarah Woolard</h3>
                   <h4 class="subHeading">Web Developer in North Carolina</h4>
                   <p></p>
-                  <p>I am a driven individual and look to improve and optimize software methods where I work and strive for the best in everything I do.</p>
-                  <a href="files/Sarah-Himmler_resume.pdf" class="bntDownload">Download Printable Resume</a> </div>
+                  <p>Driven individual, looking to improve and optimize Information Technology Operations. I have a passion for working with people to create the best product possible.</p>
+                  <a href="files/Sarah-Himmler_resume.pdf" class="bntDownload">Download Printable Resume</a></div>
                   <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4 col-md-offset-1 col-lg-offset-1 proPic"> <img src="photos/Sarah.jpg" alt="Sarah's Headshot" class="img-circle topmar"> </div>
                 </div>
               </div>
@@ -110,14 +110,8 @@
                 <div class="row">
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="100"> <span class="percent"></span> </span>
-                      <h4>HTML5</h4>
+                      <h4>HTML5 & SCSS / CSS</h4>
                       <p>The Language of Websites</p>
-                    </div>
-                  </div>
-                  <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
-                    <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="100"> <span class="percent"></span> </span>
-                      <h4>SCSS / CSS</h4>
-                      <p>Giving Websites Style</p>
                     </div>
                   </div>
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
@@ -132,6 +126,8 @@
                       <p>Database Management</p>
                     </div>
                   </div>
+                </div>
+                <div class="row">
                   <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea clearfix">
                     <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="80"> <span class="percent"></span> </span>
                       <h4>Javascript</h4>
