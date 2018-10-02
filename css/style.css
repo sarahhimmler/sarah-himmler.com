@@ -2,7 +2,7 @@
 
 	Template Name: Sarah Himmler's Resume
 	Template URI: sarah-himmler.com
-	Description: Full Screen Coming Soon Template
+	Description: My Resume Website
 	Author: Sarah Himmler
 	Version: 1.0
 
@@ -619,7 +619,9 @@ header{
 .exCon h5{
 	color:#474d5d;
 }
-
+.exCon ul li{
+	color: #474d5d;
+}
 
 
 /*----------------------------------------------------
