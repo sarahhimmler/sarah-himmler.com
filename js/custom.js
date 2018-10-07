@@ -102,7 +102,7 @@ $(function() {
       if (target.length) {
         $('html,body').animate({
           scrollTop: target.offset().top -60
-        }, 100);
+        }, 1000);
         return false;
       }
     }
@@ -117,7 +117,7 @@ $(window).load(function() {
 	
 	var chart = window.chart = $('.chart').data('easyPieChart');
 	$('.js_update').on('click', function() {
-		chart.update(Math.random()*100);
+		chart.update(Math.random()*10);
 	});
 });
 
