@@ -73,7 +73,7 @@ var index=0;
 $(document).scroll(function(){
 	var top = $('.technical').height()-$(window).scrollTop();
 	console.log(top)
-	if(top<-50){
+	if(top<-100){
 		if(index==0){	
 			
 			$('.chart').easyPieChart({
@@ -102,7 +102,7 @@ $(function() {
       if (target.length) {
         $('html,body').animate({
           scrollTop: target.offset().top -60
-        }, 1000);
+        }, 100);
         return false;
       }
     }
