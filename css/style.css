@@ -756,6 +756,7 @@ ul.portfolioContainer li img{
 	 width:100%;
 	 height:auto;
 	 display:block;
+	 border: solid 1px #00bdbd;
 }
 
 span.hoverBox{
