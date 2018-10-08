@@ -587,6 +587,7 @@ header{
 	width:120px;
 	height:120px;
 	padding:40px 0 40px 0;
+  margin-bottom: 15px;
 
 	-webkit-border-radius: 50%;
     border-radius: 50%;
@@ -1177,6 +1178,10 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	}
 	.conForm input.col-lg-6 {
 		width: 48.5%;
+	}
+	.workYear{
+		position: relative;
+		top: -36px;
 	}
 }
 
