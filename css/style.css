@@ -668,24 +668,24 @@ header{
 
 
 /*----------------------------------------------------
- 10. Protfolio Style
+ 10. portfolio Style
 ------------------------------------------------------*/
-.protfolio{
-	background:#2bb3dd;
+.portfolio{
+	background:#eeeeee;
 }
-.protfolio .container{
+.portfolio .container{
 	padding-top:85px ;
 	padding-bottom:90px ;
 }
 
-.protfolio .heading p{
+.portfolio .heading p{
 	padding-bottom:41px;
 }
 
-.protfolio h4{
+.portfolio h4,.portfolio h2{
 	font-weight:700;
+	color:#5F3F7F;
 }
-
 
 .portfolioFilter{
 	display:block;
